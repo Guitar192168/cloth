@@ -1,6 +1,6 @@
 # cloth2
 
-## Project setup
+记得安装依赖
 ```
 npm install
 ```
